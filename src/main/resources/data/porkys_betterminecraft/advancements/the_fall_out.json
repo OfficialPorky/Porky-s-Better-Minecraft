@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:nuclear_waste"
+    },
+    "title": {
+      "translate": "advancements.the_fall_out.title"
+    },
+    "description": {
+      "translate": "advancements.the_fall_out.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_fall_out": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:nuclear_waste",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:the_future_power"
+}

@@ -1,0 +1,13 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "porkys_betterminecraft:meat_ore_block"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:meat_gem",
+    "count": 9
+  }
+}

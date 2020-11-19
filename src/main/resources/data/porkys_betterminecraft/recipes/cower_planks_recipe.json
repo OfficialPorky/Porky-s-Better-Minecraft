@@ -1,0 +1,13 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cower_log"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:cower_planks",
+    "count": 4
+  }
+}

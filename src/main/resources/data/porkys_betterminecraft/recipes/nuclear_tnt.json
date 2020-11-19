@@ -1,0 +1,42 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "2": {
+      "item": "minecraft:gunpowder"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:titanium_ingot"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:nuclear_waste"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:titanium_ingot"
+    },
+    "6": {
+      "item": "minecraft:gunpowder"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "8": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 16
+  }
+}

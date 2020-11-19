@@ -1,0 +1,42 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "1": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "2": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "3": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    },
+    "5": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "6": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "7": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "8": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:chocolate",
+    "count": 1
+  }
+}

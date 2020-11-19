@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "porkys_betterminecraft:block/porker_slab"
+    },
+    "type=top": {
+      "model": "porkys_betterminecraft:block/porker_slab_top"
+    },
+    "type=double": {
+      "model": "porkys_betterminecraft:block/porker_slab_full"
+    }
+  }
+}

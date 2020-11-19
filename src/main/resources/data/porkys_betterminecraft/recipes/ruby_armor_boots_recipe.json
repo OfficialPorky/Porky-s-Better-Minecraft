@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:ruby_gem"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:ruby_gem"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:ruby_gem"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:ruby_armor_boots",
+    "count": 1
+  }
+}

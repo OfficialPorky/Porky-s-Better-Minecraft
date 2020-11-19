@@ -1,0 +1,16 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:coals"
+    },
+    {
+      "item": "porkys_betterminecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:bronse_ingot",
+    "count": 1
+  }
+}

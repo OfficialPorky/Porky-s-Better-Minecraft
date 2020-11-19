@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "porkys_betterminecraft:blocks/tomatoplant",
+    "particle": "porkys_betterminecraft:blocks/tomatoplant"
+  }
+}

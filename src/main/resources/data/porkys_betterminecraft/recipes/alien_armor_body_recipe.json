@@ -1,0 +1,39 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:alien_gem"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:alien_armor_chestplate",
+    "count": 1
+  }
+}

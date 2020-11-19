@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:fuel"
+    },
+    "title": {
+      "translate": "advancements.synthetic_experiments.title"
+    },
+    "description": {
+      "translate": "advancements.synthetic_experiments.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "synthetic_experiments": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/lava_bucket"
+}

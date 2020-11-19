@@ -1,0 +1,32 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:porker_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:porker_planks"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:porker_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:porker_planks"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:porker_fence",
+    "count": 3
+  }
+}

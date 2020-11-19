@@ -1,0 +1,32 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "1": {
+      "item": "minecraft:chest"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:titanium_ingot"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:fuel_tank",
+    "count": 1
+  }
+}

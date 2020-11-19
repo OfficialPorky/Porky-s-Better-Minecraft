@@ -1,0 +1,29 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:aluminium_ingot"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:aluminium_ingot"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:aluminium_ingot"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:aluminium_ingot"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:aluminium_armor_helmet",
+    "count": 1
+  }
+}

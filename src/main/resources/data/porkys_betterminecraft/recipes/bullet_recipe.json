@@ -1,0 +1,30 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:bullet",
+    "count": 8
+  }
+}

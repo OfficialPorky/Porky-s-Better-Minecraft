@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:alien_gem"
+    },
+    "title": {
+      "translate": "advancements.obtain_alien_material.title"
+    },
+    "description": {
+      "translate": "advancements.obtain_alien_material.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtain_alien_material": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "porkys_betterminecraft:reach_mars"
+}

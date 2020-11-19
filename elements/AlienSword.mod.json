@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "alien_sword",
+    "customModelName": "Normal",
+    "name": "Alien Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 20.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 70,
+    "damageVsEntity": 10.0,
+    "usageCount": 1920,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

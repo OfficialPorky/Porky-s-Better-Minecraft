@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "porkys_betterminecraft:blocks/titanium_ore_block",
+    "up": "porkys_betterminecraft:blocks/fuel",
+    "north": "porkys_betterminecraft:blocks/tungsten_ore_block",
+    "east": "porkys_betterminecraft:blocks/tungsten_ore_block",
+    "south": "porkys_betterminecraft:blocks/tungsten_ore_block",
+    "west": "porkys_betterminecraft:blocks/tungsten_ore_block",
+    "particle": "porkys_betterminecraft:blocks/titanium_ore_block"
+  }
+}

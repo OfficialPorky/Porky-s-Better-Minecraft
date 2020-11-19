@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:lead_ingot"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:uranium_gem"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:lead_ingot"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:nuclear_reactor",
+    "count": 1
+  }
+}

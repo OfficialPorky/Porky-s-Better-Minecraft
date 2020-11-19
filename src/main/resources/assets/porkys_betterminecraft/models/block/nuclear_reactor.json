@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "porkys_betterminecraft:blocks/nuclearreactorside",
+    "up": "porkys_betterminecraft:blocks/uranium_ore_block",
+    "north": "porkys_betterminecraft:blocks/nuclearreactorside",
+    "east": "porkys_betterminecraft:blocks/nuclearreactorside",
+    "south": "porkys_betterminecraft:blocks/nuclearreactorside",
+    "west": "porkys_betterminecraft:blocks/nuclearreactorside",
+    "particle": "porkys_betterminecraft:blocks/nuclearreactorside"
+  }
+}

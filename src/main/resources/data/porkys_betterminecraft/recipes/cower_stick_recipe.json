@@ -1,0 +1,20 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:cower_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

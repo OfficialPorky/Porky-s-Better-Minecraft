@@ -1,0 +1,12 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:smelting",
+  "experience": 2.4499999999999997,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "porkys_betterminecraft:ruby_ore"
+  },
+  "result": {
+    "item": "porkys_betterminecraft:ruby_gem"
+  }
+}

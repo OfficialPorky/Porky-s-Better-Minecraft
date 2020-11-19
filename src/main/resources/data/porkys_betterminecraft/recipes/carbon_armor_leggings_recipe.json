@@ -1,0 +1,36 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:carbon_armor_leggings",
+    "count": 1
+  }
+}

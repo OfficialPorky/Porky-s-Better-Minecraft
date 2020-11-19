@@ -1,0 +1,36 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:tomato"
+    },
+    "7": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:tomato_soup",
+    "count": 1
+  }
+}

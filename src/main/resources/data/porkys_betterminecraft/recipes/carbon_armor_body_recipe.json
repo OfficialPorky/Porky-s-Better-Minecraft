@@ -1,0 +1,39 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:carbon_armor_chestplate",
+    "count": 1
+  }
+}

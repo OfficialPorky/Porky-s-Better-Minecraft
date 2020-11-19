@@ -1,0 +1,30 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:carbon_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:carbon_pickaxe",
+    "count": 1
+  }
+}

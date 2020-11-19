@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "porkys_betterminecraft:blocks/porker_planks",
+    "particle": "porkys_betterminecraft:blocks/porker_planks"
+  }
+}

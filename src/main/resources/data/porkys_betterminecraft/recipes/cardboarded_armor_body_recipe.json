@@ -1,0 +1,39 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:cardboard"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:cardboard"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:cardboarded_armor_chestplate",
+    "count": 1
+  }
+}

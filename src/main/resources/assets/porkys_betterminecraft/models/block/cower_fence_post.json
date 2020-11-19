@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "porkys_betterminecraft:blocks/cower_planks",
+    "particle": "porkys_betterminecraft:blocks/cower_planks"
+  }
+}

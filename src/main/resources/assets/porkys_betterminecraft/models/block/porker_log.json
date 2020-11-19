@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "porkys_betterminecraft:blocks/porker_log_top",
+    "up": "porkys_betterminecraft:blocks/porker_log_top",
+    "north": "porkys_betterminecraft:blocks/porker_log_side",
+    "east": "porkys_betterminecraft:blocks/porker_log_side",
+    "south": "porkys_betterminecraft:blocks/porker_log_side",
+    "west": "porkys_betterminecraft:blocks/porker_log_side",
+    "particle": "porkys_betterminecraft:blocks/porker_log_top"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:porker_log"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:porker_planks",
+    "count": 4
+  }
+}

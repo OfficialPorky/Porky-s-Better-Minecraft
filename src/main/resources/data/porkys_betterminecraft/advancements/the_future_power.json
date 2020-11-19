@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:uranium_gem"
+    },
+    "title": {
+      "translate": "advancements.the_future_power.title"
+    },
+    "description": {
+      "translate": "advancements.the_future_power.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_future_power": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:uranium_gem",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "minecraft:story/mine_diamond"
+}

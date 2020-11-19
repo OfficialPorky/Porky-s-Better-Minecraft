@@ -1,0 +1,34 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    },
+    {
+      "item": "porkys_betterminecraft:bullet"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:ammo_clip",
+    "count": 1
+  }
+}

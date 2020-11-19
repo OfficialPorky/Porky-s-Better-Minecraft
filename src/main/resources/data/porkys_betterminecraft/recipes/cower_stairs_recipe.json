@@ -1,0 +1,33 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:cower_planks"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:cower_planks"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:cower_stairs",
+    "count": 4
+  }
+}

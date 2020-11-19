@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "porkys_betterminecraft:block/cower_slab"
+    },
+    "type=top": {
+      "model": "porkys_betterminecraft:block/cower_slab_top"
+    },
+    "type=double": {
+      "model": "porkys_betterminecraft:block/cower_slab_full"
+    }
+  }
+}

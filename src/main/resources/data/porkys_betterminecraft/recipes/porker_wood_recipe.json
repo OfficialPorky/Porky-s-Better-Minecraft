@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:porker_log"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:porker_log"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:porker_log"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:porker_log"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:porker_wood",
+    "count": 3
+  }
+}
