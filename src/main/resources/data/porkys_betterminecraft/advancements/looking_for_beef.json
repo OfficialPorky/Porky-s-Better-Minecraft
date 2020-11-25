@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:meat_gem"
+    },
+    "title": {
+      "translate": "advancements.looking_for_beef.title"
+    },
+    "description": {
+      "translate": "advancements.looking_for_beef.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "looking_for_beef": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:meat_gem",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:porkys_better_minecraft_advancements"
+}

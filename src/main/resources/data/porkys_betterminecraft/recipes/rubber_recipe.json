@@ -1,0 +1,12 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "porkys_betterminecraft:fuel"
+  },
+  "result": {
+    "item": "porkys_betterminecraft:rubber"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:piggium_hoe",
+    "count": 1
+  }
+}

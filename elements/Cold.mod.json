@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Cooling",
+    "effectName": "Cold",
+    "icon": "cold.png",
+    "color": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": true
+  }
+}

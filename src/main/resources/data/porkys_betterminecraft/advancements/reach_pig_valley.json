@@ -22,5 +22,5 @@
   "rewards": {
     "experience": 10
   },
-  "parent": "minecraft:adventure/sleep_in_bed"
+  "parent": "porkys_betterminecraft:looking_for_beef"
 }

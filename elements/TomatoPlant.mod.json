@@ -49,6 +49,12 @@
     "restrictionBiomes": [
       {
         "value": "savanna"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "beaches"
       }
     ]
   }

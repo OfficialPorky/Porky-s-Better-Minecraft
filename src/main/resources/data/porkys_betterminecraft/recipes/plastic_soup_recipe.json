@@ -1,0 +1,19 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "porkys_betterminecraft:plastic_ingot"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:plastic_soup",
+    "count": 1
+  }
+}

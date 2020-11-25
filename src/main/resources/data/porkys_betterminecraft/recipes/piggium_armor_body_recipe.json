@@ -1,0 +1,39 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:piggium"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:piggium_armor_chestplate",
+    "count": 1
+  }
+}

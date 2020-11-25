@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:titanium_ingot"
+    },
+    "title": {
+      "translate": "advancements.this_metal_is_hard.title"
+    },
+    "description": {
+      "translate": "advancements.this_metal_is_hard.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_metal_is_hard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:titanium_ingot",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:the_beige_iron"
+}

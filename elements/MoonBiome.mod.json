@@ -66,9 +66,9 @@
     "parent": {
       "value": "No parent"
     },
-    "spawnStronghold": true,
-    "spawnMineshaft": true,
-    "spawnPillagerOutpost": true,
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
     "villageType": "none",
     "spawnWoodlandMansion": false,
     "spawnJungleTemple": false,

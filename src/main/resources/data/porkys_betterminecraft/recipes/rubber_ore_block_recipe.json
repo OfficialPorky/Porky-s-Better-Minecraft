@@ -1,0 +1,42 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:rubber"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:rubber"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:rubber_block",
+    "count": 1
+  }
+}

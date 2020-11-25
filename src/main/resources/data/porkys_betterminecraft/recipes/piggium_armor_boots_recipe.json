@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:piggium"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:piggium_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "piggium_sword",
+    "customModelName": "Normal",
+    "name": "Piggium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 49,
+    "damageVsEntity": 21.0,
+    "usageCount": 1444,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Piggium"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

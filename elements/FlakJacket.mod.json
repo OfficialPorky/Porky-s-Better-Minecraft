@@ -3,8 +3,8 @@
   "_type": "enchantment",
   "definition": {
     "name": "Flak Jacket",
-    "type": "ARMOR_CHEST",
-    "rarity": "UNCOMMON",
+    "type": "ARMOR",
+    "rarity": "COMMON",
     "minLevel": 1,
     "maxLevel": 4,
     "damageModifier": 3,

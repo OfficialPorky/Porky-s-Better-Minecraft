@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:porkys_totem"
+    },
+    "title": {
+      "translate": "advancements.porkys_last_stand.title"
+    },
+    "description": {
+      "translate": "advancements.porkys_last_stand.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "porkys_last_stand": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "porkys_betterminecraft:porkys_legacy"
+}

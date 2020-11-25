@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Heat",
+    "effectName": "Hot",
+    "icon": "hot.png",
+    "color": {
+      "value": -26368,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": true
+  }
+}

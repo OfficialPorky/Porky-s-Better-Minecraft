@@ -24,7 +24,7 @@ public class FlakJacketEnchantment extends PorkysBetterminecraftModElements.ModE
 	}
 	public static class CustomEnchantment extends Enchantment {
 		public CustomEnchantment(EquipmentSlotType... slots) {
-			super(Enchantment.Rarity.UNCOMMON, EnchantmentType.ARMOR_CHEST, slots);
+			super(Enchantment.Rarity.COMMON, EnchantmentType.ARMOR, slots);
 		}
 
 		@Override

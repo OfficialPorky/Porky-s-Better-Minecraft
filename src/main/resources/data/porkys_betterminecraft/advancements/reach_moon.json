@@ -22,5 +22,5 @@
   "rewards": {
     "experience": 10
   },
-  "parent": "minecraft:story/smelt_iron"
+  "parent": "porkys_betterminecraft:porkys_better_minecraft_advancements"
 }

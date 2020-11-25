@@ -25,5 +25,5 @@
   "rewards": {
     "experience": 10
   },
-  "parent": "minecraft:story/upgrade_tools"
+  "parent": "porkys_betterminecraft:porkys_better_minecraft_advancements"
 }

@@ -16,7 +16,18 @@
   },
   "criteria": {
     "obtain_alien_material": {
-      "trigger": "minecraft:impossible"
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:alien_gem",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
     }
   },
   "rewards": {

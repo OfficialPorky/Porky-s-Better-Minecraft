@@ -16,11 +16,22 @@
   },
   "criteria": {
     "synthetic_experiments": {
-      "trigger": "minecraft:impossible"
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:fuel",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
     }
   },
   "rewards": {
     "experience": 1
   },
-  "parent": "minecraft:story/lava_bucket"
+  "parent": "porkys_betterminecraft:this_metal_is_hard"
 }

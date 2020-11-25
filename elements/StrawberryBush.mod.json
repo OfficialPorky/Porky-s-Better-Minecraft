@@ -49,6 +49,24 @@
     "restrictionBiomes": [
       {
         "value": "forest"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "mountains"
       }
     ]
   }

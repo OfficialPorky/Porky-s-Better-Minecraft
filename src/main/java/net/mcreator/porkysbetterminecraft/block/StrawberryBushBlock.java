@@ -89,6 +89,18 @@ public class StrawberryBushBlock extends PorkysBetterminecraftModElements.ModEle
 			boolean biomeCriteria = false;
 			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("forest")))
 				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("taiga")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("river")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("jungle_edge")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("jungle")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("jungle_hills")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("mountains")))
+				biomeCriteria = true;
 			if (!biomeCriteria)
 				continue;
 			biome.addFeature(GenerationStage.Decoration.VEGETAL_DECORATION,

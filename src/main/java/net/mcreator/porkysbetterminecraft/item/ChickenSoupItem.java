@@ -14,7 +14,11 @@ import net.minecraft.item.Food;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.LivingEntity;
 
+import net.mcreator.porkysbetterminecraft.procedures.ChickenSoupFoodEatenProcedure;
 import net.mcreator.porkysbetterminecraft.PorkysBetterminecraftModElements;
+
+import java.util.Map;
+import java.util.HashMap;
 
 @PorkysBetterminecraftModElements.ModElement.Tag
 public class ChickenSoupItem extends PorkysBetterminecraftModElements.ModElement {
@@ -44,6 +48,14 @@ public class ChickenSoupItem extends PorkysBetterminecraftModElements.ModElement
 		public ItemStack onItemUseFinish(ItemStack itemstack, World world, LivingEntity entity) {
 			ItemStack retval = new ItemStack(Items.BOWL, (int) (1));
 			super.onItemUseFinish(itemstack, world, entity);
+			double x = entity.getPosX();
+			double y = entity.getPosY();
+			double z = entity.getPosZ();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				ChickenSoupFoodEatenProcedure.executeProcedure($_dependencies);
+			}
 			if (itemstack.isEmpty()) {
 				return retval;
 			} else {

@@ -89,6 +89,10 @@ public class TomatoPlantBlock extends PorkysBetterminecraftModElements.ModElemen
 			boolean biomeCriteria = false;
 			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("savanna")))
 				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("jungle_edge")))
+				biomeCriteria = true;
+			if (ForgeRegistries.BIOMES.getKey(biome).equals(new ResourceLocation("beach")))
+				biomeCriteria = true;
 			if (!biomeCriteria)
 				continue;
 			biome.addFeature(GenerationStage.Decoration.VEGETAL_DECORATION,

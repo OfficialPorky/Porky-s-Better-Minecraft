@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:porkchop"
+    },
+    "title": {
+      "translate": "advancements.porkys_better_minecraft_advancements.title"
+    },
+    "description": {
+      "translate": "advancements.porkys_better_minecraft_advancements.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "porkys_better_minecraft_advancements": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

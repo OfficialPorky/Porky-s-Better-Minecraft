@@ -1,0 +1,22 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:water_bucket"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:tungsten_ingot"
+    },
+    "2": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:climate_controller",
+    "count": 1
+  }
+}

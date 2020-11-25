@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "title": {
+      "translate": "advancements.this_soup_does_wonders.title"
+    },
+    "description": {
+      "translate": "advancements.this_soup_does_wonders.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_soup_does_wonders": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "porkys_betterminecraft:chicken_soup"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:porkys_better_minecraft_advancements"
+}

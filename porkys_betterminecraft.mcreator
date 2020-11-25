@@ -3039,6 +3039,950 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chicken_soup_recipe"
+    },
+    {
+      "name": "ChickenSoupFoodEaten",
+      "type": "procedure",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_soup_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MoonGravity",
+      "type": "procedure",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon_gravity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ThisSoupDoesWonders",
+      "type": "achievement",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "this_soup_does_wonders"
+    },
+    {
+      "name": "PorkysBetterMinecraftAdvancements",
+      "type": "achievement",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_better_minecraft_advancements"
+    },
+    {
+      "name": "TheNewLantern",
+      "type": "achievement",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_new_lantern"
+    },
+    {
+      "name": "TheNewLanternCompletion",
+      "type": "procedure",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_new_lantern_completion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Piggium",
+      "type": "item",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium"
+    },
+    {
+      "name": "PiggiumOre",
+      "type": "block",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_ore"
+    },
+    {
+      "name": "PiggiumBlock",
+      "type": "block",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_block"
+    },
+    {
+      "name": "PiggiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_ore_block_recipe"
+    },
+    {
+      "name": "PiggiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_block_ore_recipe"
+    },
+    {
+      "name": "PiggiumOreSmelting",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_ore_smelting"
+    },
+    {
+      "name": "PiggiumPickaxe",
+      "type": "tool",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_pickaxe"
+    },
+    {
+      "name": "PiggiumAxe",
+      "type": "tool",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_axe"
+    },
+    {
+      "name": "PiggiumSword",
+      "type": "tool",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_sword"
+    },
+    {
+      "name": "PiggiumShovel",
+      "type": "tool",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_shovel"
+    },
+    {
+      "name": "PiggiumHoe",
+      "type": "tool",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_hoe"
+    },
+    {
+      "name": "PiggiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_pickaxe_recipe"
+    },
+    {
+      "name": "PiggiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_axe_recipe"
+    },
+    {
+      "name": "PiggiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_sword_recipe"
+    },
+    {
+      "name": "PiggiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_shovel_recipe"
+    },
+    {
+      "name": "PiggiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_hoe_recipe"
+    },
+    {
+      "name": "PiggiumArmor",
+      "type": "armor",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PiggiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_armor_helmet_recipe"
+    },
+    {
+      "name": "PiggiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_armor_body_recipe"
+    },
+    {
+      "name": "PiggiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_armor_leggings_recipe"
+    },
+    {
+      "name": "PiggiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piggium_armor_boots_recipe"
+    },
+    {
+      "name": "PorkysLegacy",
+      "type": "achievement",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_legacy"
+    },
+    {
+      "name": "PorkysLegacyCompletion",
+      "type": "procedure",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_legacy_completion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PorkysTotem",
+      "type": "item",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_totem"
+    },
+    {
+      "name": "PorkysTotemUsage",
+      "type": "procedure",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_totem_usage",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PorkysLastStand",
+      "type": "achievement",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_last_stand"
+    },
+    {
+      "name": "ReachPigValleyCompletion2",
+      "type": "procedure",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reach_pig_valley_completion_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheBeigeIron",
+      "type": "achievement",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_beige_iron"
+    },
+    {
+      "name": "TheBloodDiamond",
+      "type": "achievement",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_blood_diamond"
+    },
+    {
+      "name": "TheProtectionOfRadiate",
+      "type": "achievement",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_protection_of_radiate"
+    },
+    {
+      "name": "LookingForBeef",
+      "type": "achievement",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "looking_for_beef"
+    },
+    {
+      "name": "TheBronseAge",
+      "type": "achievement",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_bronse_age"
+    },
+    {
+      "name": "ThisMetalIsHard",
+      "type": "achievement",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "this_metal_is_hard"
+    },
+    {
+      "name": "AFuelBox",
+      "type": "achievement",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a_fuel_box"
+    },
+    {
+      "name": "OurChildrenWillLoveThis",
+      "type": "achievement",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "our_children_will_love_this"
+    },
+    {
+      "name": "PorkysTotemRecipe",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porkys_totem_recipe"
+    },
+    {
+      "name": "WhyIsThisOreSoGood",
+      "type": "achievement",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "why_is_this_ore_so_good"
+    },
+    {
+      "name": "Rubber",
+      "type": "item",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber"
+    },
+    {
+      "name": "RubberBlock",
+      "type": "block",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_block"
+    },
+    {
+      "name": "RubberOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_ore_block_recipe"
+    },
+    {
+      "name": "RubberBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_block_ore_recipe"
+    },
+    {
+      "name": "RubberRecipe",
+      "type": "recipe",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_recipe"
+    },
+    {
+      "name": "PlasticIngot",
+      "type": "item",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_ingot"
+    },
+    {
+      "name": "PlasticBlock",
+      "type": "block",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_block"
+    },
+    {
+      "name": "PlasticOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_ore_block_recipe"
+    },
+    {
+      "name": "PlasticBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_block_ore_recipe"
+    },
+    {
+      "name": "PlasticPickaxe",
+      "type": "tool",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_pickaxe"
+    },
+    {
+      "name": "PlasticAxe",
+      "type": "tool",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_axe"
+    },
+    {
+      "name": "PlasticSword",
+      "type": "tool",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_sword"
+    },
+    {
+      "name": "PlasticShovel",
+      "type": "tool",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_shovel"
+    },
+    {
+      "name": "PlasticHoe",
+      "type": "tool",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_hoe"
+    },
+    {
+      "name": "PlasticPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_pickaxe_recipe"
+    },
+    {
+      "name": "PlasticAxeRecipe",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_axe_recipe"
+    },
+    {
+      "name": "PlasticSwordRecipe",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_sword_recipe"
+    },
+    {
+      "name": "PlasticShovelRecipe",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_shovel_recipe"
+    },
+    {
+      "name": "PlasticHoeRecipe",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_hoe_recipe"
+    },
+    {
+      "name": "PlasticSoupFoodEaten",
+      "type": "procedure",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_soup_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlasticSoup",
+      "type": "food",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_soup"
+    },
+    {
+      "name": "PlasticSoupRecipe",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_soup_recipe"
+    },
+    {
+      "name": "TheFlexibleDarkness",
+      "type": "achievement",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_flexible_darkness"
+    },
+    {
+      "name": "PlasticRecipe",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_recipe"
+    },
+    {
+      "name": "OceansNightmare",
+      "type": "achievement",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oceans_nightmare"
+    },
+    {
+      "name": "PlasticBagGUI",
+      "type": "gui",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_bag_gui"
+    },
+    {
+      "name": "PlasticBag",
+      "type": "item",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_bag"
+    },
+    {
+      "name": "NuclearBombOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NuclearBomb",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_bomb"
+    },
+    {
+      "name": "ThisThingIsABlast",
+      "type": "achievement",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "this_thing_is_a_blast"
+    },
+    {
+      "name": "IceCream",
+      "type": "food",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_cream"
+    },
+    {
+      "name": "IceCreamRecipe",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_cream_recipe"
+    },
+    {
+      "name": "StrawberryIceCream",
+      "type": "food",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_ice_cream"
+    },
+    {
+      "name": "StrawberryIceCreamRecipe",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_ice_cream_recipe"
+    },
+    {
+      "name": "Cold",
+      "type": "potion",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold"
+    },
+    {
+      "name": "Freeze",
+      "type": "potion",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freeze"
+    },
+    {
+      "name": "Warm",
+      "type": "potion",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warm"
+    },
+    {
+      "name": "Hot",
+      "type": "potion",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot"
+    },
+    {
+      "name": "TemperatureEffects",
+      "type": "procedure",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temperature_effects",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TemperatureSpawner",
+      "type": "procedure",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temperature_spawner",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClimateController",
+      "type": "item",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climate_controller"
+    },
+    {
+      "name": "ClimateControllerInventoryTick",
+      "type": "procedure",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climate_controller_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClimateControllerRecipe",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climate_controller_recipe"
     }
   ],
   "variable_elements": [],
@@ -3048,52 +3992,78 @@
       "item.porkys_betterminecraft.apple_juice": "Apple Juice",
       "item.porkys_betterminecraft.copper_hoe": "Copper Hoe",
       "advancements.the_fall_out.title": "The Fall-Out",
+      "advancements.this_thing_is_a_blast.title": "This Thing Is A Blast",
       "block.porkys_betterminecraft.bronse_ore_block": "Block of Bronse",
       "item.porkys_betterminecraft.carbon_hoe": "Carbon Hoe",
       "entity.porkys_betterminecraft.pig_president": "Pig President",
       "advancements.reach_mars.descr": "Reach Mars",
       "block.porkys_betterminecraft.uranium_ore_block": "Block of Uranium",
       "advancements.reach_polluted_world.descr": "Reach the Polluted World",
+      "item.minecraft.lingering_potion.effect.cold": "Lingering Cooling",
+      "item.minecraft.splash_potion.effect.hot": "Splash Heat",
       "item.porkys_betterminecraft.ruby_pickaxe": "Ruby Pickaxe",
       "item.porkys_betterminecraft.tomato": "Tomato",
+      "advancements.this_metal_is_hard.title": "This Metal Is Hard",
+      "item.porkys_betterminecraft.piggium_hoe": "Piggium Hoe",
       "block.porkys_betterminecraft.uranium_ore": "Uranium Ore",
       "entity.porkys_betterminecraft.pig_soldier": "Pig Soldier",
       "item.porkys_betterminecraft.cow_farmer_spawn_egg": "Cow Farmer Spawn Egg",
       "item.porkys_betterminecraft.ruby_armor_boots": "Ruby Boots",
+      "advancements.this_soup_does_wonders.title": "This Soup Does Wonders",
       "item.porkys_betterminecraft.pig_farmer_spawn_egg": "Pig Farmer Spawn Egg",
       "item.porkys_betterminecraft.carbon_pickaxe": "Carbon Pickaxe",
       "item.porkys_betterminecraft.titanium_ingot": "Titanium",
+      "item.porkys_betterminecraft.piggium_armor_boots": "Piggium Boots",
       "advancements.synthetic_experiments.title": "Synthetic Experiments",
+      "advancements.a_fuel_box.descr": "Place a Fuel Tank",
+      "item.porkys_betterminecraft.piggium_shovel": "Piggium Shovel",
+      "advancements.the_blood_diamond.descr": "Obtain Ruby",
       "entity.porkys_betterminecraft.cow_president": "Cow President",
       "block.porkys_betterminecraft.aluminium_ore": "Aluminium Ore",
+      "item.minecraft.splash_potion.effect.warm": "Splash Warmth",
       "item.porkys_betterminecraft.alien_gem": "Alien Material",
       "block.porkys_betterminecraft.copper_ore": "Copper Ore",
       "item.porkys_betterminecraft.cardboarded_armor_helmet": "Cardboarded Helmet",
       "entity.porkys_betterminecraft.pig_farmer": "Pig Farmer",
-      "item.porkys_betterminecraft.alien_spawn_egg": "Alien Spawn Egg",
+      "effect.hot": "Hot",
+      "block.porkys_betterminecraft.rubber_block": "Block of Rubber",
       "block.porkys_betterminecraft.carbon_ore": "Carbon Ore",
+      "item.porkys_betterminecraft.alien_spawn_egg": "Alien Spawn Egg",
       "item.porkys_betterminecraft.cow_farmer": "Cow Farmer Spawn Egg",
       "block.porkys_betterminecraft.tomato_plant": "Tomato Plant",
       "block.porkys_betterminecraft.porker_stairs": "Porker Stairs",
       "item.porkys_betterminecraft.emerald_pickaxe": "Emerald Pickaxe",
       "item.porkys_betterminecraft.ruby_axe": "Ruby Axe",
+      "advancements.the_protection_of_radiate.descr": "Obtain Lead",
+      "item.porkys_betterminecraft.plastic_hoe": "Plastic Hoe",
+      "advancements.the_flexible_darkness.title": "The Flexible Darkness",
+      "advancements.the_beige_iron.title": "The Beige Iron",
       "item.porkys_betterminecraft.bronse_pickaxe": "Bronse Pickaxe",
       "item.porkys_betterminecraft.titanium_armor_leggings": "Titanium Leggings",
       "block.porkys_betterminecraft.meat_ore": "Meat Ore",
+      "advancements.the_blood_diamond.title": "The Blood Diamond",
+      "item.porkys_betterminecraft.plastic_bag": "Plastic Bag",
+      "block.porkys_betterminecraft.plastic_block": "Block of Plastic",
       "block.porkys_betterminecraft.nuclear_waste": "Nuclear Waste",
       "effect.radiation": "Radiation",
       "block.porkys_betterminecraft.porker_wood": "Porker Wood",
+      "advancements.the_protection_of_radiate.title": "The Protection Of Radiate",
       "item.porkys_betterminecraft.meat_gem": "Meat",
-      "block.porkys_betterminecraft.copper_ore_block": "Block of Copper",
+      "item.minecraft.lingering_potion.effect.freeze": "Lingering Freezing",
       "item.porkys_betterminecraft.bronse_armor_leggings": "Bronse Leggings",
+      "block.porkys_betterminecraft.copper_ore_block": "Block of Copper",
+      "advancements.why_is_this_ore_so_good.descr": "Obtain Aluminium",
       "item.porkys_betterminecraft.copper_sword": "Copper Sword",
-      "item.porkys_betterminecraft.carbon_armor_boots": "Carbon Boots",
       "entity.porkys_betterminecraft.alien": "Alien",
+      "item.porkys_betterminecraft.carbon_armor_boots": "Carbon Boots",
       "item.porkys_betterminecraft.emerald_armor_helmet": "Emerald Helmet",
       "item.porkys_betterminecraft.uranium_gem": "Uranium",
       "item.porkys_betterminecraft.tungsten_ingot": "Tungsten",
+      "item.porkys_betterminecraft.plastic_ingot": "Plastic",
+      "item.minecraft.splash_potion.effect.freeze": "Splash Freezing",
       "block.porkys_betterminecraft.alien_ore": "Alien Ore",
       "item.porkys_betterminecraft.alien_axe": "Alien Axe",
+      "advancements.oceans_nightmare.title": "Ocean\u0027s Nightmare",
       "item.porkys_betterminecraft.aluminium_armor_chestplate": "Aluminium Chestplate",
       "block.porkys_betterminecraft.cower_wood": "Cower Wood",
       "item.porkys_betterminecraft.emerald_shovel": "Emerald Shovel",
@@ -3102,6 +4072,7 @@
       "item.porkys_betterminecraft.titanium_armor_helmet": "Titanium Helmet",
       "item.porkys_betterminecraft.aluminium_armor_boots": "Aluminium Boots",
       "item.porkys_betterminecraft.alien_armor_helmet": "Alien Helmet",
+      "item.minecraft.lingering_potion.effect.warm": "Lingering Warmth",
       "entity.porkys_betterminecraft.cow_soldier": "Cow Soldier",
       "item.porkys_betterminecraft.bronse_armor_boots": "Bronse Boots",
       "item.porkys_betterminecraft.aluminium_armor_helmet": "Aluminium Helmet",
@@ -3109,13 +4080,17 @@
       "item.porkys_betterminecraft.copper_ingot": "Copper",
       "item.porkys_betterminecraft.chocolate": "Chocolate",
       "item.porkys_betterminecraft.fuel": "Fuel",
+      "item.minecraft.potion.effect.warm": "Warmth",
       "item.porkys_betterminecraft.titanium_pickaxe": "Titanium Pickaxe",
       "item.porkys_betterminecraft.ruby_shovel": "Ruby Shovel",
       "block.porkys_betterminecraft.aluminium_ore_block": "Block of Aluminium",
       "item.porkys_betterminecraft.ruby_gem": "Ruby",
+      "effect.warm": "Warm",
       "item.porkys_betterminecraft.cardboarded_hoe": "Cardboarded Hoe",
       "item.porkys_betterminecraft.cardboard": "Cardboard",
       "item.porkys_betterminecraft.carbon_sword": "Carbon Sword",
+      "advancements.this_soup_does_wonders.descr": "Eat Chicken Soup",
+      "item.minecraft.splash_potion.effect.cold": "Splash Cooling",
       "item.minecraft.potion.effect.radiation": "Potion Of Radiation",
       "block.porkys_betterminecraft.cower_stairs": "Cower Stairs",
       "item.porkys_betterminecraft.aluminium_pickaxe": "Aluminium Pickaxe",
@@ -3127,28 +4102,44 @@
       "item.porkys_betterminecraft.cow_president": "Cow President Spawn Egg",
       "block.porkys_betterminecraft.porker_fence_gate": "Porker Fence Gate",
       "item.porkys_betterminecraft.carbon_armor_leggings": "Carbon Leggings",
+      "advancements.looking_for_beef.title": "Looking For Beef",
       "item.porkys_betterminecraft.auto_rifle": "Automatic Rifle",
       "block.porkys_betterminecraft.fuel_tank": "Fuel Tank",
       "block.porkys_betterminecraft.ruby_ore": "Ruby Ore",
       "item.porkys_betterminecraft.bullet": "Bullet",
       "item.porkys_betterminecraft.cow_soldier_spawn_egg": "Cow Soldier Spawn Egg",
+      "advancements.porkys_legacy.descr": "Obtain Piggium",
+      "item.minecraft.potion.effect.hot": "Heat",
       "block.porkys_betterminecraft.lead_ore": "Lead Ore",
+      "item.porkys_betterminecraft.plastic_sword": "Plastic Sword",
+      "advancements.oceans_nightmare.descr": "Obtain Plastic",
+      "block.porkys_betterminecraft.piggium_ore": "Piggium Ore",
+      "item.porkys_betterminecraft.piggium_armor_helmet": "Piggium Helmet",
       "item.porkys_betterminecraft.bronse_shovel": "Bronse Shovel",
       "block.porkys_betterminecraft.porker_planks": "Porker Planks",
       "item.porkys_betterminecraft.polluted_world": "Polluted World Portal Igniter",
       "block.porkys_betterminecraft.nuclear_reactor": "Nuclear Reactor",
+      "block.porkys_betterminecraft.nuclear_bomb": "Nuclear Bomb",
+      "advancements.our_children_will_love_this.descr": "Place a Nuclear Reactor",
       "item.porkys_betterminecraft.pig_president": "Pig President Spawn Egg",
       "item.minecraft.tipped_arrow.effect.radiation": "Arrow of Potion Of Radiation",
+      "advancements.the_flexible_darkness.descr": "Obtain Rubber",
+      "item.porkys_betterminecraft.piggium_sword": "Piggium Sword",
+      "advancements.the_new_lantern.title": "The New Lantern",
+      "item.porkys_betterminecraft.strawberry_ice_cream": "Ice Cream",
       "item.porkys_betterminecraft.bronse_hoe": "Bronse Hoe",
       "advancements.obtain_alien_material.title": "The Prophecy is true",
       "item.porkys_betterminecraft.carbon_armor_helmet": "Carbon Helmet",
       "item.porkys_betterminecraft.pig_farmer": "Pig Farmer Spawn Egg",
       "item.porkys_betterminecraft.emerald_hoe": "Emerald Hoe",
+      "item.porkys_betterminecraft.plastic_soup": "Plastic Soup",
       "biome.porkys_betterminecraft.cow_hills_biome": "Cow Hills Biome",
       "item.porkys_betterminecraft.copper_pickaxe": "Copper Pickaxe",
       "item.porkys_betterminecraft.copper_armor_chestplate": "Copper Chestplate",
       "item.porkys_betterminecraft.cardboarded_armor_boots": "Cardboarded Boots",
+      "advancements.porkys_better_minecraft_advancements.title": "Porkys Better Minecraft Advancements",
       "item.porkys_betterminecraft.alien_sword": "Alien Sword",
+      "advancements.porkys_last_stand.descr": "Use Porky\u0027s Totem",
       "advancements.synthetic_experiments.descr": "Create Fuel",
       "item.porkys_betterminecraft.titanium_hoe": "Titanium Hoe",
       "block.porkys_betterminecraft.ruby_ore_block": "Block of Ruby",
@@ -3157,9 +4148,13 @@
       "item.porkys_betterminecraft.aluminium_hoe": "Aluminium Hoe",
       "item.porkys_betterminecraft.titanium_sword": "Titanium Sword",
       "item.porkys_betterminecraft.emerald_armor_boots": "Emerald Boots",
+      "item.porkys_betterminecraft.piggium_armor_leggings": "Piggium Leggings",
+      "item.minecraft.lingering_potion.effect.hot": "Lingering Heat",
       "item.porkys_betterminecraft.bronse_sword": "Bronse Sword",
+      "item.minecraft.tipped_arrow.effect.freeze": "Arrow of Freezing",
       "block.porkys_betterminecraft.carbon_ore_block": "Block of Carbon",
       "block.porkys_betterminecraft.cower_fence_gate": "Cower Fence Gate",
+      "advancements.looking_for_beef.descr": "Obtain Meat",
       "advancements.reach_pig_valley.descr": "Reach Pig Valley",
       "item.porkys_betterminecraft.pig_soldier": "Pig Soldier Spawn Egg",
       "advancements.reach_moon.title": "A small step for man...",
@@ -3169,41 +4164,60 @@
       "item.porkys_betterminecraft.cow_president_spawn_egg": "Cow President Spawn Egg",
       "item.porkys_betterminecraft.alien_shovel": "Alien Shovel",
       "block.porkys_betterminecraft.cower_fence": "Cower Fence",
+      "block.porkys_betterminecraft.piggium_block": "Block of Piggium",
+      "item.minecraft.potion.effect.cold": "Cooling",
       "item.porkys_betterminecraft.alien_pickaxe": "Alien Pickaxe",
       "item.porkys_betterminecraft.aluminium_sword": "Aluminium Sword",
       "item.porkys_betterminecraft.copper_armor_leggings": "Copper Leggings",
       "item.porkys_betterminecraft.ruby_armor_chestplate": "Ruby Chestplate",
       "item.porkys_betterminecraft.pig_dimension": "Porker Igniter",
       "item.porkys_betterminecraft.alien_hoe": "Alien Hoe",
+      "item.porkys_betterminecraft.climate_controller": "Climate Controller",
       "item.porkys_betterminecraft.moon": "Moon Portal Igniter",
       "item.porkys_betterminecraft.emerald_axe": "Emerald Axe",
       "advancements.obtain_alien_material.descr": "Obtain Alien Material",
       "item.porkys_betterminecraft.chocolate_milk": "Chocolate Milk",
       "block.porkys_betterminecraft.titanium_ore_block": "Block of Titanium",
+      "advancements.porkys_last_stand.title": "Porky\u0027s Last Stand",
+      "item.porkys_betterminecraft.rubber": "Rubber",
       "item.porkys_betterminecraft.cola": "Cola",
       "biome.porkys_betterminecraft.moon_biome": "Moon Biome",
+      "item.porkys_betterminecraft.piggium_axe": "Piggium Axe",
       "block.porkys_betterminecraft.strawberry_bush": "Strawberry Bush",
       "item.porkys_betterminecraft.aluminium_shovel": "Aluminium Shovel",
       "item.porkys_betterminecraft.titanium_armor_boots": "Titanium Boots",
+      "advancements.the_beige_iron.descr": "Obtain Copper",
       "item.porkys_betterminecraft.ruby_armor_helmet": "Ruby Helmet",
       "entity.porkys_betterminecraft.cow_farmer": "Cow Farmer",
       "item.porkys_betterminecraft.carbon_axe": "Carbon Axe",
+      "advancements.the_bronse_age.descr": "Obtain Bronse",
+      "effect.freeze": "Freezing",
       "item.porkys_betterminecraft.ruby_armor_leggings": "Ruby Leggings",
+      "item.porkys_betterminecraft.plastic_shovel": "Plastic Shovel",
       "item.porkys_betterminecraft.copper_shovel": "Copper Shovel",
+      "item.porkys_betterminecraft.plastic_axe": "Plastic Axe",
       "item.porkys_betterminecraft.carbon_dust": "Carbon",
       "item.porkys_betterminecraft.tomato_soup": "Tomato Soup",
       "item.porkys_betterminecraft.mars": "Mars Portal Igniter",
+      "effect.cold": "Cold",
       "item.porkys_betterminecraft.cardboarded_armor_chestplate": "Cardboarded Chestplate",
       "block.porkys_betterminecraft.cower_leaves": "Cower Leaves",
+      "item.porkys_betterminecraft.ice_cream": "Ice Cream",
       "item.porkys_betterminecraft.copper_armor_helmet": "Copper Helmet",
       "block.porkys_betterminecraft.porker_fence": "Porker Fence",
       "item.porkys_betterminecraft.strawberry": "Strawberry",
       "item.porkys_betterminecraft.aluminium_ingot": "Aluminium",
       "biome.porkys_betterminecraft.wasteland": "Wasteland",
+      "advancements.porkys_legacy.title": "Porky\u0027s Legacy",
+      "item.minecraft.tipped_arrow.effect.cold": "Arrow of Cooling",
       "item.porkys_betterminecraft.cardboarded_shovel": "Cardboarded Shovel",
+      "advancements.this_metal_is_hard.descr": "Obtain Titanium",
       "advancements.reach_pig_valley.title": "Pighalla",
       "item.porkys_betterminecraft.titanium_shovel": "Titanium Shovel",
+      "advancements.this_thing_is_a_blast.descr": "Let a nuclear bomb detonate in the world",
       "item.porkys_betterminecraft.bronse_axe": "Bronse Axe",
+      "item.minecraft.tipped_arrow.effect.warm": "Arrow of Warmth",
+      "advancements.the_bronse_age.title": "The Bronse Age",
       "item.porkys_betterminecraft.pistol": "Pistol",
       "enchantment.porkys_betterminecraft.flak_jacket": "Flak Jacket",
       "item.minecraft.splash_potion.effect.radiation": "Splash Potion Of Radiation",
@@ -3217,19 +4231,28 @@
       "item.porkys_betterminecraft.pig_president_spawn_egg": "Pig President Spawn Egg",
       "advancements.the_future_power.descr": "Obtain Uranium",
       "item.porkys_betterminecraft.pancake": "Pancake",
+      "item.porkys_betterminecraft.piggium_pickaxe": "Piggium Pickaxe",
       "block.porkys_betterminecraft.tungsten_ore_block": "Block of Tungsten",
       "advancements.the_fall_out.descr": "Create Nuclear Waste",
+      "item.porkys_betterminecraft.porkys_totem": "Porky\u0027s Totem",
       "item.porkys_betterminecraft.cow_soldier": "Cow Soldier Spawn Egg",
+      "advancements.our_children_will_love_this.title": "Our Children Will Love This",
       "item.porkys_betterminecraft.alien_armor_boots": "Alien Boots",
       "block.porkys_betterminecraft.lead_ore_block": "Block of Lead",
+      "item.minecraft.tipped_arrow.effect.hot": "Arrow of Heat",
       "item.porkys_betterminecraft.recurve_bow": "Recurve Bow",
       "item.porkys_betterminecraft.rifle": "Rifle",
       "item.porkys_betterminecraft.bronse_armor_helmet": "Bronse Helmet",
+      "advancements.why_is_this_ore_so_good.title": "Why Is This Ore So Good?",
+      "advancements.porkys_better_minecraft_advancements.descr": "Advancements obtained in the Porky\u0027s BetterMinecraft Mod",
       "item.porkys_betterminecraft.cardboarded_pickaxe": "Cardboarded Pickaxe",
+      "item.porkys_betterminecraft.piggium": "Piggium",
       "item.porkys_betterminecraft.copper_armor_boots": "Copper Boots",
       "item.porkys_betterminecraft.ammo_clip": "Ammo Clip",
+      "item.porkys_betterminecraft.piggium_armor_chestplate": "Piggium Chestplate",
       "item.porkys_betterminecraft.titanium_axe": "Titanium Axe",
       "item.porkys_betterminecraft.aluminium_axe": "Aluminium Axe",
+      "advancements.the_new_lantern.descr": "Craft an Uranium Box",
       "item.porkys_betterminecraft.emerald_armor_chestplate": "Emerald Chestplate",
       "item.porkys_betterminecraft.chicken_soup": "Chicken Soup",
       "block.porkys_betterminecraft.cower_log": "Cower Log",
@@ -3240,23 +4263,27 @@
       "block.porkys_betterminecraft.porker_log": "Porker Log",
       "item.porkys_betterminecraft.cardboarded_axe": "Cardboarded Axe",
       "item.porkys_betterminecraft.alien_armor_leggings": "Alien Leggings",
+      "item.porkys_betterminecraft.plastic_pickaxe": "Plastic Pickaxe",
       "item.porkys_betterminecraft.alien_armor_chestplate": "Alien Chestplate",
       "biome.porkys_betterminecraft.mars_biome": "Mars Biome",
       "item.porkys_betterminecraft.emerald_sword": "Emerald Sword",
       "item.porkys_betterminecraft.emerald_armor_leggings": "Emerald Leggings",
       "block.porkys_betterminecraft.alien_ore_block": "Block of Alien",
+      "item.minecraft.potion.effect.freeze": "Freezing",
       "item.porkys_betterminecraft.uranium_box": "Uranium Box",
       "item.porkys_betterminecraft.ruby_sword": "Ruby Sword",
       "item.porkys_betterminecraft.lead_ingot": "Lead",
       "block.porkys_betterminecraft.meat_ore_block": "Block of Meat",
-      "item.porkys_betterminecraft.copper_axe": "Copper Axe"
+      "item.porkys_betterminecraft.copper_axe": "Copper Axe",
+      "advancements.a_fuel_box.title": "A Fuel Box"
     }
   },
   "workspaceSettings": {
     "modid": "porkys_betterminecraft",
     "modName": "Porky\u0027s BetterMinecraft",
-    "version": "1.0.0",
-    "author": "wesle, MCreator",
+    "version": "1.1",
+    "description": "Porky\u0027s BetterMinecraft \u0027improves\u0027 the game in different ways.",
+    "author": "OfficialPorky, MCreator",
     "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -3265,9 +4292,9 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Created using MCreator",
     "modElementsPackage": "net.mcreator.porkysbetterminecraft",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000546519
+  "mcreatorVersion": 202000547520
 }

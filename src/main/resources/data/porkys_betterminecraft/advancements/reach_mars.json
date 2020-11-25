@@ -22,5 +22,5 @@
   "rewards": {
     "experience": 20
   },
-  "parent": "minecraft:story/iron_tools"
+  "parent": "porkys_betterminecraft:reach_moon"
 }

@@ -1,0 +1,16 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "porkys_betterminecraft:ice_cream"
+    },
+    {
+      "item": "porkys_betterminecraft:strawberry"
+    }
+  ],
+  "result": {
+    "item": "porkys_betterminecraft:strawberry_ice_cream",
+    "count": 1
+  }
+}
