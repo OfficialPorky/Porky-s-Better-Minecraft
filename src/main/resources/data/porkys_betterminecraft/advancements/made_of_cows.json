@@ -1,13 +1,13 @@
 {
   "display": {
     "icon": {
-      "item": "porkys_betterminecraft:ruby_gem"
+      "item": "porkys_betterminecraft:cower_log"
     },
     "title": {
-      "translate": "advancements.the_blood_diamond.title"
+      "translate": "advancements.made_of_cows.title"
     },
     "description": {
-      "translate": "advancements.the_blood_diamond.descr"
+      "translate": "advancements.made_of_cows.descr"
     },
     "frame": "task",
     "show_toast": true,
@@ -15,12 +15,12 @@
     "hidden": false
   },
   "criteria": {
-    "the_blood_diamond": {
+    "made_of_cows": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "porkys_betterminecraft:ruby_gem",
+            "item": "porkys_betterminecraft:cower_log",
             "count": {
               "min": 1,
               "max": 64
@@ -33,5 +33,5 @@
   "rewards": {
     "experience": 1
   },
-  "parent": "porkys_betterminecraft:this_metal_is_hard"
+  "parent": "porkys_betterminecraft:reach_pig_valley"
 }

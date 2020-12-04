@@ -35,7 +35,7 @@ public class TitaniumPickaxeItem extends PorkysBetterminecraftModElements.ModEle
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 7;
 			}
 
 			public int getEnchantability() {

@@ -7,40 +7,40 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:CarbonDust"
-      },
-      {
-        "value": "CUSTOM:CarbonDust"
-      },
-      {
-        "value": "CUSTOM:CarbonDust"
-      },
-      {
-        "value": "CUSTOM:TungstenIngot"
-      },
-      {
-        "value": "Items.LAVA_BUCKET"
-      },
-      {
-        "value": "CUSTOM:TungstenIngot"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:TungstenIngot"
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Chocolate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IceCream"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Fuel"
+      "value": "CUSTOM:ChocolateIceCream"
     },
-    "name": "fuel_recipe",
+    "name": "chocolate_ice_cream_recipe",
     "namespace": "mod"
   }
 }

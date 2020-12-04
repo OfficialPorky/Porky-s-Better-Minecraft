@@ -35,7 +35,7 @@ public class TitaniumHoeItem extends PorkysBetterminecraftModElements.ModElement
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 7;
 			}
 
 			public int getEnchantability() {

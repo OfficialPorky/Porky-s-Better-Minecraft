@@ -3983,6 +3983,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "climate_controller_recipe"
+    },
+    {
+      "name": "Purpled",
+      "type": "achievement",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpled"
+    },
+    {
+      "name": "MadeOfCows",
+      "type": "achievement",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "made_of_cows"
+    },
+    {
+      "name": "Waffle",
+      "type": "food",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waffle"
+    },
+    {
+      "name": "ChocolateIceCream",
+      "type": "food",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_ice_cream"
+    },
+    {
+      "name": "ChocolateIceCreamRecipe",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_ice_cream_recipe"
+    },
+    {
+      "name": "WaffleRecipe",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waffle_recipe"
     }
   ],
   "variable_elements": [],
@@ -3991,6 +4045,7 @@
     "en_us": {
       "item.porkys_betterminecraft.apple_juice": "Apple Juice",
       "item.porkys_betterminecraft.copper_hoe": "Copper Hoe",
+      "advancements.purpled.title": "Purpled",
       "advancements.the_fall_out.title": "The Fall-Out",
       "advancements.this_thing_is_a_blast.title": "This Thing Is A Blast",
       "block.porkys_betterminecraft.bronse_ore_block": "Block of Bronse",
@@ -4052,6 +4107,7 @@
       "item.minecraft.lingering_potion.effect.freeze": "Lingering Freezing",
       "item.porkys_betterminecraft.bronse_armor_leggings": "Bronse Leggings",
       "block.porkys_betterminecraft.copper_ore_block": "Block of Copper",
+      "item.porkys_betterminecraft.waffle": "Waffle",
       "advancements.why_is_this_ore_so_good.descr": "Obtain Aluminium",
       "item.porkys_betterminecraft.copper_sword": "Copper Sword",
       "entity.porkys_betterminecraft.alien": "Alien",
@@ -4096,6 +4152,7 @@
       "item.porkys_betterminecraft.aluminium_pickaxe": "Aluminium Pickaxe",
       "item.porkys_betterminecraft.pig_soldier_spawn_egg": "Pig Soldier Spawn Egg",
       "item.porkys_betterminecraft.titanium_armor_chestplate": "Titanium Chestplate",
+      "item.porkys_betterminecraft.chocolate_ice_cream": "Ice Cream",
       "item.porkys_betterminecraft.carbon_armor_chestplate": "Carbon Chestplate",
       "advancements.reach_polluted_world.title": "Smog is in the air",
       "advancements.reach_mars.title": "The Red Planet",
@@ -4111,8 +4168,10 @@
       "advancements.porkys_legacy.descr": "Obtain Piggium",
       "item.minecraft.potion.effect.hot": "Heat",
       "block.porkys_betterminecraft.lead_ore": "Lead Ore",
+      "advancements.purpled.descr": "Obtain Porker Wood",
       "item.porkys_betterminecraft.plastic_sword": "Plastic Sword",
       "advancements.oceans_nightmare.descr": "Obtain Plastic",
+      "advancements.made_of_cows.descr": "Obtain Cower Wood",
       "block.porkys_betterminecraft.piggium_ore": "Piggium Ore",
       "item.porkys_betterminecraft.piggium_armor_helmet": "Piggium Helmet",
       "item.porkys_betterminecraft.bronse_shovel": "Bronse Shovel",
@@ -4260,6 +4319,7 @@
       "item.porkys_betterminecraft.carbon_shovel": "Carbon Shovel",
       "block.porkys_betterminecraft.porker_leaves": "Porker Leaves",
       "item.porkys_betterminecraft.bronse_armor_chestplate": "Bronse Chestplate",
+      "advancements.made_of_cows.title": "Made Of Cows",
       "block.porkys_betterminecraft.porker_log": "Porker Log",
       "item.porkys_betterminecraft.cardboarded_axe": "Cardboarded Axe",
       "item.porkys_betterminecraft.alien_armor_leggings": "Alien Leggings",

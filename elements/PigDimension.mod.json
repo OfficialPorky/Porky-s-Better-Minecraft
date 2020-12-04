@@ -27,7 +27,7 @@
         "value": "CUSTOM:CowHillsBiome"
       }
     ],
-    "worldGenType": "Nether like gen",
+    "worldGenType": "Normal world gen",
     "mainFillerBlock": {
       "value": "Blocks.STONE#0"
     },
@@ -44,7 +44,7 @@
     "isDark": false,
     "doesWaterVaporize": false,
     "sleepResult": "BED_EXPLODES",
-    "hasSkyLight": false,
+    "hasSkyLight": true,
     "imitateOverworldBehaviour": false
   }
 }

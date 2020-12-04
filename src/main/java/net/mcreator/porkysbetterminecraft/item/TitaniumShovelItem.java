@@ -35,7 +35,7 @@ public class TitaniumShovelItem extends PorkysBetterminecraftModElements.ModElem
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 7;
 			}
 
 			public int getEnchantability() {

@@ -68,19 +68,19 @@ public class TemperatureSpawnerProcedure extends PorkysBetterminecraftModElement
 				if (((world.getBiome(new BlockPos((int) x, (int) y, (int) z)).getTemperature(new BlockPos((int) x, (int) y, (int) z))
 						* 100.f) <= 0.25)) {
 					if (entity instanceof LivingEntity)
-						((LivingEntity) entity).addPotionEffect(new EffectInstance(FreezePotion.potion, (int) 60, (int) 1));
+						((LivingEntity) entity).addPotionEffect(new EffectInstance(FreezePotion.potion, (int) 60, (int) 1, (false), (false)));
 				} else {
 					if (entity instanceof LivingEntity)
-						((LivingEntity) entity).addPotionEffect(new EffectInstance(ColdPotion.potion, (int) 60, (int) 1));
+						((LivingEntity) entity).addPotionEffect(new EffectInstance(ColdPotion.potion, (int) 60, (int) 1, (false), (false)));
 				}
 			} else if (((world.getBiome(new BlockPos((int) x, (int) y, (int) z)).getTemperature(new BlockPos((int) x, (int) y, (int) z))
-					* 100.f) > 1.5)) {
+					* 100.f) > 2)) {
 				if ((!(((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == Blocks.WATER.getDefaultState().getBlock())
 						|| (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == Blocks.WATER.getDefaultState().getBlock())
 								|| ((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == Blocks.BUBBLE_COLUMN
 										.getDefaultState().getBlock()))))) {
 					if (entity instanceof LivingEntity)
-						((LivingEntity) entity).addPotionEffect(new EffectInstance(WarmPotion.potion, (int) 60, (int) 1));
+						((LivingEntity) entity).addPotionEffect(new EffectInstance(WarmPotion.potion, (int) 60, (int) 1, (false), (false)));
 				}
 			}
 		}
