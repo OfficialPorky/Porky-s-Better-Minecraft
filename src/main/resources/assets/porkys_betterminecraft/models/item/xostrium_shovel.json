@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "porkys_betterminecraft:items/xostrium_shovel"
+  }
+}

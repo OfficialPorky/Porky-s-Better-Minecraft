@@ -4037,6 +4037,210 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "waffle_recipe"
+    },
+    {
+      "name": "Xostrium",
+      "type": "item",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium"
+    },
+    {
+      "name": "XostriumOre",
+      "type": "block",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_ore"
+    },
+    {
+      "name": "XostriumBlock",
+      "type": "block",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_block"
+    },
+    {
+      "name": "XostriumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_ore_block_recipe"
+    },
+    {
+      "name": "XostriumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_block_ore_recipe"
+    },
+    {
+      "name": "XostriumOreSmelting",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_ore_smelting"
+    },
+    {
+      "name": "XostriumPickaxe",
+      "type": "tool",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_pickaxe"
+    },
+    {
+      "name": "XostriumAxe",
+      "type": "tool",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_axe"
+    },
+    {
+      "name": "XostriumSword",
+      "type": "tool",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_sword"
+    },
+    {
+      "name": "XostriumShovel",
+      "type": "tool",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_shovel"
+    },
+    {
+      "name": "XostriumHoe",
+      "type": "tool",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_hoe"
+    },
+    {
+      "name": "XostriumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_pickaxe_recipe"
+    },
+    {
+      "name": "XostriumAxeRecipe",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_axe_recipe"
+    },
+    {
+      "name": "XostriumSwordRecipe",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_sword_recipe"
+    },
+    {
+      "name": "XostriumShovelRecipe",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_shovel_recipe"
+    },
+    {
+      "name": "XostriumHoeRecipe",
+      "type": "recipe",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_hoe_recipe"
+    },
+    {
+      "name": "XostriumArmor",
+      "type": "armor",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "XostriumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_armor_helmet_recipe"
+    },
+    {
+      "name": "XostriumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_armor_body_recipe"
+    },
+    {
+      "name": "XostriumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_armor_leggings_recipe"
+    },
+    {
+      "name": "XostriumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xostrium_armor_boots_recipe"
+    },
+    {
+      "name": "HellsOre",
+      "type": "achievement",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hells_ore"
     }
   ],
   "variable_elements": [],
@@ -4061,6 +4265,8 @@
       "advancements.this_metal_is_hard.title": "This Metal Is Hard",
       "item.porkys_betterminecraft.piggium_hoe": "Piggium Hoe",
       "block.porkys_betterminecraft.uranium_ore": "Uranium Ore",
+      "item.porkys_betterminecraft.xostrium_hoe": "Xostrium Hoe",
+      "item.porkys_betterminecraft.xostrium_sword": "Xostrium Sword",
       "entity.porkys_betterminecraft.pig_soldier": "Pig Soldier",
       "item.porkys_betterminecraft.cow_farmer_spawn_egg": "Cow Farmer Spawn Egg",
       "item.porkys_betterminecraft.ruby_armor_boots": "Ruby Boots",
@@ -4069,8 +4275,10 @@
       "item.porkys_betterminecraft.carbon_pickaxe": "Carbon Pickaxe",
       "item.porkys_betterminecraft.titanium_ingot": "Titanium",
       "item.porkys_betterminecraft.piggium_armor_boots": "Piggium Boots",
-      "advancements.synthetic_experiments.title": "Synthetic Experiments",
+      "item.porkys_betterminecraft.xostrium_armor_leggings": "Xostrium Leggings",
+      "item.porkys_betterminecraft.xostrium_shovel": "Xostrium Shovel",
       "advancements.a_fuel_box.descr": "Place a Fuel Tank",
+      "advancements.synthetic_experiments.title": "Synthetic Experiments",
       "item.porkys_betterminecraft.piggium_shovel": "Piggium Shovel",
       "advancements.the_blood_diamond.descr": "Obtain Ruby",
       "entity.porkys_betterminecraft.cow_president": "Cow President",
@@ -4171,6 +4379,7 @@
       "advancements.purpled.descr": "Obtain Porker Wood",
       "item.porkys_betterminecraft.plastic_sword": "Plastic Sword",
       "advancements.oceans_nightmare.descr": "Obtain Plastic",
+      "advancements.hells_ore.title": "Hells Ore",
       "advancements.made_of_cows.descr": "Obtain Cower Wood",
       "block.porkys_betterminecraft.piggium_ore": "Piggium Ore",
       "item.porkys_betterminecraft.piggium_armor_helmet": "Piggium Helmet",
@@ -4189,6 +4398,7 @@
       "item.porkys_betterminecraft.bronse_hoe": "Bronse Hoe",
       "advancements.obtain_alien_material.title": "The Prophecy is true",
       "item.porkys_betterminecraft.carbon_armor_helmet": "Carbon Helmet",
+      "item.porkys_betterminecraft.xostrium_pickaxe": "Xostrium Pickaxe",
       "item.porkys_betterminecraft.pig_farmer": "Pig Farmer Spawn Egg",
       "item.porkys_betterminecraft.emerald_hoe": "Emerald Hoe",
       "item.porkys_betterminecraft.plastic_soup": "Plastic Soup",
@@ -4215,6 +4425,7 @@
       "block.porkys_betterminecraft.cower_fence_gate": "Cower Fence Gate",
       "advancements.looking_for_beef.descr": "Obtain Meat",
       "advancements.reach_pig_valley.descr": "Reach Pig Valley",
+      "item.porkys_betterminecraft.xostrium": "Xostrium",
       "item.porkys_betterminecraft.pig_soldier": "Pig Soldier Spawn Egg",
       "advancements.reach_moon.title": "A small step for man...",
       "block.porkys_betterminecraft.cower_planks": "Cower Planks",
@@ -4243,6 +4454,8 @@
       "biome.porkys_betterminecraft.moon_biome": "Moon Biome",
       "item.porkys_betterminecraft.piggium_axe": "Piggium Axe",
       "block.porkys_betterminecraft.strawberry_bush": "Strawberry Bush",
+      "item.porkys_betterminecraft.xostrium_armor_chestplate": "Xostrium Chestplate",
+      "item.porkys_betterminecraft.xostrium_axe": "Xostrium Axe",
       "item.porkys_betterminecraft.aluminium_shovel": "Aluminium Shovel",
       "item.porkys_betterminecraft.titanium_armor_boots": "Titanium Boots",
       "advancements.the_beige_iron.descr": "Obtain Copper",
@@ -4276,6 +4489,7 @@
       "advancements.this_thing_is_a_blast.descr": "Let a nuclear bomb detonate in the world",
       "item.porkys_betterminecraft.bronse_axe": "Bronse Axe",
       "item.minecraft.tipped_arrow.effect.warm": "Arrow of Warmth",
+      "block.porkys_betterminecraft.xostrium_block": "Block of Xostrium",
       "advancements.the_bronse_age.title": "The Bronse Age",
       "item.porkys_betterminecraft.pistol": "Pistol",
       "enchantment.porkys_betterminecraft.flak_jacket": "Flak Jacket",
@@ -4298,6 +4512,7 @@
       "advancements.our_children_will_love_this.title": "Our Children Will Love This",
       "item.porkys_betterminecraft.alien_armor_boots": "Alien Boots",
       "block.porkys_betterminecraft.lead_ore_block": "Block of Lead",
+      "block.porkys_betterminecraft.xostrium_ore": "Xostrium Ore",
       "item.minecraft.tipped_arrow.effect.hot": "Arrow of Heat",
       "item.porkys_betterminecraft.recurve_bow": "Recurve Bow",
       "item.porkys_betterminecraft.rifle": "Rifle",
@@ -4326,6 +4541,8 @@
       "item.porkys_betterminecraft.plastic_pickaxe": "Plastic Pickaxe",
       "item.porkys_betterminecraft.alien_armor_chestplate": "Alien Chestplate",
       "biome.porkys_betterminecraft.mars_biome": "Mars Biome",
+      "advancements.hells_ore.descr": "Obtain Xostrium",
+      "item.porkys_betterminecraft.xostrium_armor_boots": "Xostrium Boots",
       "item.porkys_betterminecraft.emerald_sword": "Emerald Sword",
       "item.porkys_betterminecraft.emerald_armor_leggings": "Emerald Leggings",
       "block.porkys_betterminecraft.alien_ore_block": "Block of Alien",
@@ -4335,6 +4552,7 @@
       "item.porkys_betterminecraft.lead_ingot": "Lead",
       "block.porkys_betterminecraft.meat_ore_block": "Block of Meat",
       "item.porkys_betterminecraft.copper_axe": "Copper Axe",
+      "item.porkys_betterminecraft.xostrium_armor_helmet": "Xostrium Helmet",
       "advancements.a_fuel_box.title": "A Fuel Box"
     }
   },

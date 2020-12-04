@@ -1,0 +1,42 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "7": {
+      "item": "porkys_betterminecraft:xostrium"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:xostrium"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:xostrium_block",
+    "count": 1
+  }
+}
