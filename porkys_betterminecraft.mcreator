@@ -4241,6 +4241,210 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hells_ore"
+    },
+    {
+      "name": "Zustruylium",
+      "type": "item",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium"
+    },
+    {
+      "name": "ZustruyliumOre",
+      "type": "block",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_ore"
+    },
+    {
+      "name": "ZustruyliumBlock",
+      "type": "block",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_block"
+    },
+    {
+      "name": "ZustruyliumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_ore_block_recipe"
+    },
+    {
+      "name": "ZustruyliumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_block_ore_recipe"
+    },
+    {
+      "name": "ZustruyliumOreSmelting",
+      "type": "recipe",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_ore_smelting"
+    },
+    {
+      "name": "ZustruyliumPickaxe",
+      "type": "tool",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_pickaxe"
+    },
+    {
+      "name": "ZustruyliumAxe",
+      "type": "tool",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_axe"
+    },
+    {
+      "name": "ZustruyliumSword",
+      "type": "tool",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_sword"
+    },
+    {
+      "name": "ZustruyliumShovel",
+      "type": "tool",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_shovel"
+    },
+    {
+      "name": "ZustruyliumHoe",
+      "type": "tool",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_hoe"
+    },
+    {
+      "name": "ZustruyliumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_pickaxe_recipe"
+    },
+    {
+      "name": "ZustruyliumAxeRecipe",
+      "type": "recipe",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_axe_recipe"
+    },
+    {
+      "name": "ZustruyliumSwordRecipe",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_sword_recipe"
+    },
+    {
+      "name": "ZustruyliumShovelRecipe",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_shovel_recipe"
+    },
+    {
+      "name": "ZustruyliumHoeRecipe",
+      "type": "recipe",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_hoe_recipe"
+    },
+    {
+      "name": "ZustruyliumArmor",
+      "type": "armor",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ZustruyliumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_armor_helmet_recipe"
+    },
+    {
+      "name": "ZustruyliumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_armor_body_recipe"
+    },
+    {
+      "name": "ZustruyliumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_armor_leggings_recipe"
+    },
+    {
+      "name": "ZustruyliumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zustruylium_armor_boots_recipe"
+    },
+    {
+      "name": "HeavensMineral",
+      "type": "achievement",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavens_mineral"
     }
   ],
   "variable_elements": [],
@@ -4257,6 +4461,7 @@
       "entity.porkys_betterminecraft.pig_president": "Pig President",
       "advancements.reach_mars.descr": "Reach Mars",
       "block.porkys_betterminecraft.uranium_ore_block": "Block of Uranium",
+      "item.porkys_betterminecraft.zustruylium_armor_leggings": "Zustruylium Leggings",
       "advancements.reach_polluted_world.descr": "Reach the Polluted World",
       "item.minecraft.lingering_potion.effect.cold": "Lingering Cooling",
       "item.minecraft.splash_potion.effect.hot": "Splash Heat",
@@ -4271,6 +4476,9 @@
       "item.porkys_betterminecraft.cow_farmer_spawn_egg": "Cow Farmer Spawn Egg",
       "item.porkys_betterminecraft.ruby_armor_boots": "Ruby Boots",
       "advancements.this_soup_does_wonders.title": "This Soup Does Wonders",
+      "item.porkys_betterminecraft.zustruylium": "Zustruylium",
+      "item.porkys_betterminecraft.zustruylium_sword": "Zustruylium Sword",
+      "advancements.heavens_mineral.descr": "Obtain Zustruylium",
       "item.porkys_betterminecraft.pig_farmer_spawn_egg": "Pig Farmer Spawn Egg",
       "item.porkys_betterminecraft.carbon_pickaxe": "Carbon Pickaxe",
       "item.porkys_betterminecraft.titanium_ingot": "Titanium",
@@ -4365,7 +4573,9 @@
       "advancements.reach_polluted_world.title": "Smog is in the air",
       "advancements.reach_mars.title": "The Red Planet",
       "item.porkys_betterminecraft.cow_president": "Cow President Spawn Egg",
+      "item.porkys_betterminecraft.zustruylium_armor_chestplate": "Zustruylium Chestplate",
       "block.porkys_betterminecraft.porker_fence_gate": "Porker Fence Gate",
+      "item.porkys_betterminecraft.zustruylium_pickaxe": "Zustruylium Pickaxe",
       "item.porkys_betterminecraft.carbon_armor_leggings": "Carbon Leggings",
       "advancements.looking_for_beef.title": "Looking For Beef",
       "item.porkys_betterminecraft.auto_rifle": "Automatic Rifle",
@@ -4383,8 +4593,10 @@
       "advancements.made_of_cows.descr": "Obtain Cower Wood",
       "block.porkys_betterminecraft.piggium_ore": "Piggium Ore",
       "item.porkys_betterminecraft.piggium_armor_helmet": "Piggium Helmet",
+      "block.porkys_betterminecraft.zustruylium_block": "Block of Zustruylium",
       "item.porkys_betterminecraft.bronse_shovel": "Bronse Shovel",
       "block.porkys_betterminecraft.porker_planks": "Porker Planks",
+      "item.porkys_betterminecraft.zustruylium_armor_boots": "Zustruylium Boots",
       "item.porkys_betterminecraft.polluted_world": "Polluted World Portal Igniter",
       "block.porkys_betterminecraft.nuclear_reactor": "Nuclear Reactor",
       "block.porkys_betterminecraft.nuclear_bomb": "Nuclear Bomb",
@@ -4396,6 +4608,7 @@
       "advancements.the_new_lantern.title": "The New Lantern",
       "item.porkys_betterminecraft.strawberry_ice_cream": "Ice Cream",
       "item.porkys_betterminecraft.bronse_hoe": "Bronse Hoe",
+      "item.porkys_betterminecraft.zustruylium_armor_helmet": "Zustruylium Helmet",
       "advancements.obtain_alien_material.title": "The Prophecy is true",
       "item.porkys_betterminecraft.carbon_armor_helmet": "Carbon Helmet",
       "item.porkys_betterminecraft.xostrium_pickaxe": "Xostrium Pickaxe",
@@ -4403,6 +4616,7 @@
       "item.porkys_betterminecraft.emerald_hoe": "Emerald Hoe",
       "item.porkys_betterminecraft.plastic_soup": "Plastic Soup",
       "biome.porkys_betterminecraft.cow_hills_biome": "Cow Hills Biome",
+      "item.porkys_betterminecraft.zustruylium_axe": "Zustruylium Axe",
       "item.porkys_betterminecraft.copper_pickaxe": "Copper Pickaxe",
       "item.porkys_betterminecraft.copper_armor_chestplate": "Copper Chestplate",
       "item.porkys_betterminecraft.cardboarded_armor_boots": "Cardboarded Boots",
@@ -4466,6 +4680,7 @@
       "effect.freeze": "Freezing",
       "item.porkys_betterminecraft.ruby_armor_leggings": "Ruby Leggings",
       "item.porkys_betterminecraft.plastic_shovel": "Plastic Shovel",
+      "advancements.heavens_mineral.title": "Heavens Mineral",
       "item.porkys_betterminecraft.copper_shovel": "Copper Shovel",
       "item.porkys_betterminecraft.plastic_axe": "Plastic Axe",
       "item.porkys_betterminecraft.carbon_dust": "Carbon",
@@ -4518,6 +4733,7 @@
       "item.porkys_betterminecraft.rifle": "Rifle",
       "item.porkys_betterminecraft.bronse_armor_helmet": "Bronse Helmet",
       "advancements.why_is_this_ore_so_good.title": "Why Is This Ore So Good?",
+      "item.porkys_betterminecraft.zustruylium_hoe": "Zustruylium Hoe",
       "advancements.porkys_better_minecraft_advancements.descr": "Advancements obtained in the Porky\u0027s BetterMinecraft Mod",
       "item.porkys_betterminecraft.cardboarded_pickaxe": "Cardboarded Pickaxe",
       "item.porkys_betterminecraft.piggium": "Piggium",
@@ -4539,6 +4755,7 @@
       "item.porkys_betterminecraft.cardboarded_axe": "Cardboarded Axe",
       "item.porkys_betterminecraft.alien_armor_leggings": "Alien Leggings",
       "item.porkys_betterminecraft.plastic_pickaxe": "Plastic Pickaxe",
+      "item.porkys_betterminecraft.zustruylium_shovel": "Zustruylium Shovel",
       "item.porkys_betterminecraft.alien_armor_chestplate": "Alien Chestplate",
       "biome.porkys_betterminecraft.mars_biome": "Mars Biome",
       "advancements.hells_ore.descr": "Obtain Xostrium",
@@ -4553,7 +4770,8 @@
       "block.porkys_betterminecraft.meat_ore_block": "Block of Meat",
       "item.porkys_betterminecraft.copper_axe": "Copper Axe",
       "item.porkys_betterminecraft.xostrium_armor_helmet": "Xostrium Helmet",
-      "advancements.a_fuel_box.title": "A Fuel Box"
+      "advancements.a_fuel_box.title": "A Fuel Box",
+      "block.porkys_betterminecraft.zustruylium_ore": "Zustruylium Ore"
     }
   },
   "workspaceSettings": {

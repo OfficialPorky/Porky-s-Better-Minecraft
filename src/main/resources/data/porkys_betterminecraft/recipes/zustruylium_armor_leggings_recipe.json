@@ -1,0 +1,36 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:zustruylium"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:zustruylium_armor_leggings",
+    "count": 1
+  }
+}

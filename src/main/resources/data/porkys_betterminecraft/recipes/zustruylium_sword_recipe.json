@@ -1,0 +1,24 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:zustruylium"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:zustruylium_sword",
+    "count": 1
+  }
+}

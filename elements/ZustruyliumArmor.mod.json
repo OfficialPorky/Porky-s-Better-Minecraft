@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "zustruylium_head",
+    "enableBody": true,
+    "textureBody": "zustruylium_body",
+    "enableLeggings": true,
+    "textureLeggings": "zustruylium_leggings",
+    "enableBoots": true,
+    "textureBoots": "zustruylium_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "zustruylium",
+    "helmetName": "Zustruylium Helmet",
+    "bodyName": "Zustruylium Chestplate",
+    "leggingsName": "Zustruylium Leggings",
+    "bootsName": "Zustruylium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 90,
+    "damageValueHelmet": 12,
+    "damageValueBody": 30,
+    "damageValueLeggings": 36,
+    "damageValueBoots": 12,
+    "enchantability": 54,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Zustruylium"
+      }
+    ]
+  }
+}
