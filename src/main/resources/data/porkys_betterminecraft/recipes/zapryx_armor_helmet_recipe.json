@@ -1,0 +1,29 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "1": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:zapryx"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:zapryx_armor_helmet",
+    "count": 1
+  }
+}

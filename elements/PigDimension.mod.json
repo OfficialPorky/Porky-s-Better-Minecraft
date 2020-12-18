@@ -25,6 +25,9 @@
       },
       {
         "value": "CUSTOM:CowHillsBiome"
+      },
+      {
+        "value": "ocean"
       }
     ],
     "worldGenType": "Normal world gen",

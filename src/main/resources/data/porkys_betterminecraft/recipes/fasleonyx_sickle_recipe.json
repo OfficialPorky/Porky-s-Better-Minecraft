@@ -1,0 +1,27 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:fasleonyx_sickle",
+    "count": 1
+  }
+}

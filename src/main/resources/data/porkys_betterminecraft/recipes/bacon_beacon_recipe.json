@@ -1,0 +1,42 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "porkys_betterminecraft:piggium"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "item": "porkys_betterminecraft:piggium"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:bacon_beacon",
+    "count": 1
+  }
+}

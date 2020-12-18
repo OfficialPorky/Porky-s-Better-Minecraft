@@ -45,7 +45,18 @@ public class TemperatureEffectsProcedure extends PorkysBetterminecraftModElement
 			}
 		}.check(entity))) {
 			if (entity instanceof LivingEntity)
-				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SLOWNESS, (int) 20, (int) 0, (true), (false)));
+				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SLOWNESS, (int) 20, (int) (new Object() {
+					int check(Entity _entity) {
+						if (_entity instanceof LivingEntity) {
+							Collection<EffectInstance> effects = ((LivingEntity) _entity).getActivePotionEffects();
+							for (EffectInstance effect : effects) {
+								if (effect.getPotion() == FreezePotion.potion)
+									return effect.getAmplifier();
+							}
+						}
+						return 0;
+					}
+				}.check(entity)), (true), (false)));
 		}
 		if ((new Object() {
 			boolean check(Entity _entity) {
@@ -60,7 +71,18 @@ public class TemperatureEffectsProcedure extends PorkysBetterminecraftModElement
 			}
 		}.check(entity))) {
 			if (entity instanceof LivingEntity)
-				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.WEAKNESS, (int) 20, (int) 0, (true), (false)));
+				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.WEAKNESS, (int) 20, (int) (new Object() {
+					int check(Entity _entity) {
+						if (_entity instanceof LivingEntity) {
+							Collection<EffectInstance> effects = ((LivingEntity) _entity).getActivePotionEffects();
+							for (EffectInstance effect : effects) {
+								if (effect.getPotion() == HotPotion.potion)
+									return effect.getAmplifier();
+							}
+						}
+						return 0;
+					}
+				}.check(entity)), (true), (false)));
 		}
 	}
 

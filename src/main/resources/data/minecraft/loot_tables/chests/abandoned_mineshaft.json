@@ -450,6 +450,34 @@
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "porkys_betterminecraft:ruby_gem",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "porkys_betterminecraft:aluminium_ingot",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
         }
       ]
     }

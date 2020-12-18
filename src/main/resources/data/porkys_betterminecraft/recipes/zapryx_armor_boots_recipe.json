@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:zapryx"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:zapryx_armor_boots",
+    "count": 1
+  }
+}

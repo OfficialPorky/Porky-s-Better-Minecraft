@@ -1,0 +1,34 @@
+{
+  "_fv": 13,
+  "_type": "structure",
+  "definition": {
+    "structure": "ship_cow_filled",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:PigDimension"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.FLOWING_WATER"
+      },
+      {
+        "value": "Blocks.BUBBLE_COLUMN"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "ocean"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

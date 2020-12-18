@@ -124,7 +124,8 @@ public class PigDimensionDimension extends PorkysBetterminecraftModElements.ModE
 	@Override
 	public void init(FMLCommonSetupEvent event) {
 		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("porkys_betterminecraft:pig_valley_biome")),
-				ForgeRegistries.BIOMES.getValue(new ResourceLocation("porkys_betterminecraft:cow_hills_biome")),};
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("porkys_betterminecraft:cow_hills_biome")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("ocean")),};
 	}
 
 	@Override

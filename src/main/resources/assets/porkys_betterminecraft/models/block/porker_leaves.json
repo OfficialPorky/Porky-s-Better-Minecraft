@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "porkys_betterminecraft:blocks/porker_leaves",
+    "down": "porkys_betterminecraft:blocks/porker_leaves",
+    "up": "porkys_betterminecraft:blocks/porker_leaves",
+    "north": "porkys_betterminecraft:blocks/porker_leaves",
+    "east": "porkys_betterminecraft:blocks/porker_leaves",
+    "south": "porkys_betterminecraft:blocks/porker_leaves",
+    "west": "porkys_betterminecraft:blocks/porker_leaves",
     "particle": "porkys_betterminecraft:blocks/porker_leaves"
   }
 }

@@ -15,7 +15,6 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Leaves",
     "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",

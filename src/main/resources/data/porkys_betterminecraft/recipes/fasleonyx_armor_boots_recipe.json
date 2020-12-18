@@ -1,0 +1,26 @@
+{
+  "group": "porkys_betterminecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "2": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "3": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "5": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    }
+  },
+  "result": {
+    "item": "porkys_betterminecraft:fasleonyx_armor_boots",
+    "count": 1
+  }
+}

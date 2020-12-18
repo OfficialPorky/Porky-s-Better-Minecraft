@@ -93,7 +93,8 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "End"
+      "End",
+      "CUSTOM:Aether"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [

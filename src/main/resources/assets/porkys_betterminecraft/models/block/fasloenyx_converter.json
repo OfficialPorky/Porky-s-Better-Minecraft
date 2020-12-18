@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "porkys_betterminecraft:blocks/fasloenyxconverterbottom",
+    "up": "porkys_betterminecraft:blocks/baconbeaconbottom",
+    "north": "porkys_betterminecraft:blocks/fasloenyxconverterside",
+    "east": "porkys_betterminecraft:blocks/fasloenyxconverterside",
+    "south": "porkys_betterminecraft:blocks/fasloenyxconverterside",
+    "west": "porkys_betterminecraft:blocks/fasloenyxconverterside",
+    "particle": "porkys_betterminecraft:blocks/fasloenyxconverterbottom"
+  }
+}

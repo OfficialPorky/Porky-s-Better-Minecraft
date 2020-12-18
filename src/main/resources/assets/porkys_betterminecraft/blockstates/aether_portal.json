@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "porkys_betterminecraft:block/aether_portal_ew"
+    },
+    "axis=x": {
+      "model": "porkys_betterminecraft:block/aether_portal_ns"
+    }
+  }
+}

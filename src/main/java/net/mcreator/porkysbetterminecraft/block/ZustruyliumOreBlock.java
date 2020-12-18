@@ -27,6 +27,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
+import net.mcreator.porkysbetterminecraft.world.dimension.AetherDimension;
 import net.mcreator.porkysbetterminecraft.item.ZustruyliumItem;
 import net.mcreator.porkysbetterminecraft.PorkysBetterminecraftModElements;
 
@@ -72,6 +73,8 @@ public class ZustruyliumOreBlock extends PorkysBetterminecraftModElements.ModEle
 					DimensionType dimensionType = world.getDimension().getType();
 					boolean dimensionCriteria = false;
 					if (dimensionType == DimensionType.THE_END)
+						dimensionCriteria = true;
+					if (dimensionType == AetherDimension.type)
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;

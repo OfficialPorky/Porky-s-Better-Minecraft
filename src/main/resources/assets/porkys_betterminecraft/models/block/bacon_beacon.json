@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "porkys_betterminecraft:blocks/baconbeaconbottom",
+    "up": "porkys_betterminecraft:blocks/baconbeacontop",
+    "north": "porkys_betterminecraft:blocks/baconbeaconside",
+    "east": "porkys_betterminecraft:blocks/baconbeaconside",
+    "south": "porkys_betterminecraft:blocks/baconbeaconside",
+    "west": "porkys_betterminecraft:blocks/baconbeaconside",
+    "particle": "porkys_betterminecraft:blocks/baconbeaconbottom"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "porkys_betterminecraft:blocks/zapryx_ore",
+    "particle": "porkys_betterminecraft:blocks/zapryx_ore"
+  }
+}

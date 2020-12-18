@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:zapryx"
+    },
+    "title": {
+      "translate": "advancements.hidden_in_the_bedrock.title"
+    },
+    "description": {
+      "translate": "advancements.hidden_in_the_bedrock.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hidden_in_the_bedrock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "porkys_betterminecraft:zapryx",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:obtain_alien_material"
+}

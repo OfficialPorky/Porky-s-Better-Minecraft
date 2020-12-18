@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:fasleonyx"
+    },
+    "title": {
+      "translate": "advancements.forged_of_darkness.title"
+    },
+    "description": {
+      "translate": "advancements.forged_of_darkness.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "forged_of_darkness": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "porkys_betterminecraft:hidden_in_the_bedrock"
+}

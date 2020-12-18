@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "porkys_betterminecraft:bacon_beacon"
+    },
+    "title": {
+      "translate": "advancements.bacon_beacon_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.bacon_beacon_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bacon_beacon_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "porkys_betterminecraft:looking_for_beef"
+}
